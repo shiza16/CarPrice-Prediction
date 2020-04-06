@@ -1,1 +1,2 @@
-A console base application to predict car price using linear regression model, k-means, k-fold, k-NN by compare training and testing dataset using python.
+This Project is a regression model which predicts the price of the car given its features and labels.
+For model training, I have used Linear Regression and Random Forest to train the dataset and compared their accuracy. 
